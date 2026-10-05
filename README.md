@@ -6,7 +6,7 @@ Layout of a multi-page website using a ready-made Figma design. Clean HTML, CSS 
 
 | Desktop | Mobile |
 |---|---|
-| ![Desktop] (./previews/Screenshot_153927_desktop.jpg) | ![Mobile] (./previews/Screenshot_154038_mobile.jpg)
+| ![Desktop](./previews/Screenshot_153927_desktop.jpg) | ![Mobile](./previews/Screenshot_154038_mobile.jpg)
 
 🔗 **Demo:** https://zhuridochka.github.io/Techno_profi-show/catalog.html#catalog
 
